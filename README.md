@@ -11,3 +11,11 @@ El token JWT (JSON Web Token) sirve para autenticación y autorización:
 
 1) Autenticación: Confirma que el usuario inició sesión correctamente.
 2) Autorización: Permite al usuario acceder a rutas protegidas enviando el token en cada petición, y el servidor valida que tenga permisos.
+
+## Capturas de pantalla
+
+![Screenshot 1](./screenshots/1.jpg)
+
+![Screenshot 2](./screenshots/2.jpg)
+
+![Screenshot 3](./screenshots/3.jpg)
