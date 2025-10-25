@@ -14,8 +14,8 @@ El token JWT (JSON Web Token) sirve para autenticación y autorización:
 
 ## Capturas de pantalla
 
-![Screenshot 1](./screenshots/1.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/ElberG/Practica-VII-G4/main/Screenshots/1.jpg)
 
-![Screenshot 2](./screenshots/2.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/ElberG/Practica-VII-G4/main/Screenshots/2.jpg)
 
-![Screenshot 3](./screenshots/3.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/ElberG/Practica-VII-G4/main/Screenshots/3.jpg)
